@@ -1,6 +1,7 @@
 module.exports = {
   appName: 'E-Commerce Platform',
-  version: '1.0.0',
-  apiUrl: 'https://api.example.com',
-  timeout: 5000
+  version: '2.0.0',
+  apiUrl: 'https://api-v2.example.com',
+  timeout: 3000,
+  debugMode: true
 };
